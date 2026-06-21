@@ -125,11 +125,5 @@ The Global Superstore dataset contains information about:
 
 ✔ Return order analysis
 
----
-
-## 📸 Dashboard Preview
-
-<img width="1415" height="796" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/1edeac75-6b3e-47e1-85e6-a0778fb22875" />
-
 
 
