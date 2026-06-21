@@ -129,6 +129,7 @@ The Global Superstore dataset contains information about:
 
 ## 📸 Dashboard Preview
 
-<img width="1415" height="790" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/d907d3e8-4447-4247-a90f-2fd3bb4e6b3b" />
+<img width="1415" height="796" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/1edeac75-6b3e-47e1-85e6-a0778fb22875" />
+
 
 
