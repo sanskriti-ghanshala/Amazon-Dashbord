@@ -129,7 +129,8 @@ The Global Superstore dataset contains information about:
 
 ## 📸 Dashboard Preview
 
-> Add screenshots of your Power BI dashboard here.
+<img width="1415" height="790" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/d907d3e8-4447-4247-a90f-2fd3bb4e6b3b" />
+
 
 Example:
 
